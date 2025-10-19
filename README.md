@@ -45,7 +45,7 @@
 
 ##
 - **栈**
-- **功能**：时间范围查询、折线图展示温湿度/CO₂/烟雾等、数据导出 Excel。 :contentReference[oaicite:24]{index=24}  
+- **功能**：时间范围查询、折线图展示温湿度/CO₂/烟雾等、数据导出 Excel。
 - **运行**：
   ```bash
   pip install flask pymysql pandas matplotlib
